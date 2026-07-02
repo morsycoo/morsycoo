@@ -38,79 +38,6 @@ My work goes beyond training models—I enjoy designing complete ML pipelines, d
 
 ---
 
-# 💼 Featured Projects
-
-## 🏦 Credit Risk Intelligence System
-
-> Production-ready Credit Risk Prediction Platform
-
-**Tech Stack**
-
-- LightGBM
-- FastAPI
-- Docker
-- Optuna
-- SHAP
-- Pytest
-
-**Highlights**
-
-- ✅ End-to-End ML Pipeline
-- ✅ Feature Engineering
-- ✅ Hyperparameter Optimization
-- ✅ Explainable AI
-- ✅ REST API
-- ✅ Dockerized Deployment
-- ✅ Production Project Structure
-- ✅ Automated Testing
-
----
-
-## 👨‍💼 IBM Employee Attrition Prediction
-
-Deep Learning project using PyTorch for employee attrition prediction.
-
-**Highlights**
-
-- PyTorch
-- Neural Networks
-- Feature Engineering
-- Model Evaluation
-
----
-
-## 💳 Credit Card Fraud Detection
-
-Machine Learning system for highly imbalanced fraud detection.
-
-**Highlights**
-
-- LightGBM
-- XGBoost
-- SMOTE
-- SHAP
-- Optuna
-
----
-
-## 📈 Customer Churn Prediction
-
-End-to-end customer churn prediction pipeline.
-
----
-
-## 🏦 Bank Customer Subscription Prediction
-
-Marketing campaign prediction using ensemble learning.
-
----
-
-## 🎬 Content-Based Recommendation System
-
-Recommendation engine using feature similarity.
-
----
-
 # 🛠 Tech Stack
 
 ## 💻 Languages
@@ -130,17 +57,6 @@ Recommendation engine using feature similarity.
 
 ---
 
-## 🤖 Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- LightGBM
-- CatBoost
-- Optuna
-- SHAP
-
----
-
 ## 🧠 Deep Learning
 
 <p>
@@ -155,12 +71,6 @@ Recommendation engine using feature similarity.
 <img src="https://skillicons.dev/icons?i=fastapi,docker"/>
 </p>
 
-- REST APIs
-- Model Serving
-- Logging
-- Testing
-- Production Deployment
-
 ---
 
 ## 🛠 Tools
@@ -168,30 +78,6 @@ Recommendation engine using feature similarity.
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
-
----
-
-# 📚 Currently Learning
-
-- Advanced Statistics for Machine Learning
-- SQL for Data Engineering
-- LLM Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MLOps
-- Kubernetes
-- AWS
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Become a Production ML Engineer
-- 🤖 Build Enterprise AI Systems
-- 📦 Master MLOps
-- ☁️ Deploy AI Applications to the Cloud
-- 🌍 Contribute to Open Source
-- 💼 Land a Machine Learning Engineer / AI Engineer role
 
 ---
 
@@ -225,11 +111,3 @@ mahmud.mursi@gmail.com
 </p>
 
 ---
-
-<div align="center">
-
-### 💡 Philosophy
-
-> **Build. Measure. Deploy. Monitor. Improve.**
-
-</div>
