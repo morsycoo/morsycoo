@@ -25,7 +25,7 @@ Building production-ready AI systems from data to deployment.
 
 I'm a **Machine Learning Engineer** passionate about building reliable, scalable, and production-ready AI systems.
 
-My work goes beyond training models—I enjoy designing complete ML pipelines, deploying models as APIs, optimizing performance, and building maintainable software.
+My work goes beyond training models. I enjoy designing complete ML pipelines, deploying models as APIs, optimizing performance, and building maintainable software.
 
 - ⚙️ Machine Learning Engineer
 - 🧠 Deep Learning with PyTorch
