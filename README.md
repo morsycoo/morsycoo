@@ -9,7 +9,7 @@ Building production-ready AI systems from data to deployment.
 <p>
 
 <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Expert-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker"/>
