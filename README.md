@@ -1,29 +1,40 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Morsy</h1>
+<div align="center">
 
-<h3 align="center">
-Machine Learning Engineer | AI Engineer
-</h3>
+# 👋 Hi, I'm Mahmoud Morsy
 
-<p align="center">
-Building production-ready Machine Learning systems from data to deployment.
+### 🤖 Machine Learning Engineer | AI Engineer
+
+Building production-ready AI systems from data to deployment.
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Expert-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
+
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Machine Learning Engineer passionate about building reliable, production-ready AI systems rather than just training models.
+I'm a **Machine Learning Engineer** passionate about building reliable, scalable, and production-ready AI systems.
 
-My interests include:
+My work goes beyond training models—I enjoy designing complete ML pipelines, deploying models as APIs, optimizing performance, and building maintainable software.
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Data Science
-- ⚙️ ML Engineering
+### 🎯 Current Focus
+
+- 🤖 Machine Learning Engineering
+- 🧠 Deep Learning with PyTorch
 - 🚀 MLOps
 - 💬 LLM Engineering
-
-I enjoy solving real-world problems by combining data, software engineering, and machine learning into scalable applications.
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agents
 
 ---
 
@@ -31,31 +42,38 @@ I enjoy solving real-world problems by combining data, software engineering, and
 
 ## 🏦 Credit Risk Intelligence System
 
-An end-to-end machine learning system for predicting loan default risk.
+> Production-ready Credit Risk Prediction Platform
 
-### Highlights
+**Tech Stack**
 
-- Feature Engineering
-- LightGBM, XGBoost & CatBoost
-- Hyperparameter Optimization (Optuna)
-- SHAP Explainability
-- FastAPI REST API
-- Docker Deployment
-- Structured Logging
+- LightGBM
+- FastAPI
+- Docker
+- Optuna
+- SHAP
 - Pytest
-- Production-ready Project Structure
+
+**Highlights**
+
+- ✅ End-to-End ML Pipeline
+- ✅ Feature Engineering
+- ✅ Hyperparameter Optimization
+- ✅ Explainable AI
+- ✅ REST API
+- ✅ Dockerized Deployment
+- ✅ Production Project Structure
+- ✅ Automated Testing
 
 ---
 
 ## 👨‍💼 IBM Employee Attrition Prediction
 
-Deep Learning project for predicting employee attrition using PyTorch.
+Deep Learning project using PyTorch for employee attrition prediction.
 
-### Technologies
+**Highlights**
 
 - PyTorch
-- Pandas
-- Scikit-Learn
+- Neural Networks
 - Feature Engineering
 - Model Evaluation
 
@@ -63,15 +81,15 @@ Deep Learning project for predicting employee attrition using PyTorch.
 
 ## 💳 Credit Card Fraud Detection
 
-Fraud detection system for highly imbalanced financial transactions.
+Machine Learning system for highly imbalanced fraud detection.
 
-### Technologies
+**Highlights**
 
 - LightGBM
 - XGBoost
 - SMOTE
-- Optuna
 - SHAP
+- Optuna
 
 ---
 
@@ -79,42 +97,40 @@ Fraud detection system for highly imbalanced financial transactions.
 
 End-to-end customer churn prediction pipeline.
 
-### Technologies
-
-- Logistic Regression
-- Random Forest
-- Feature Engineering
-- Cross Validation
-
 ---
 
-## 🏦 Bank Marketing Campaign Prediction
+## 🏦 Bank Customer Subscription Prediction
 
-Machine Learning pipeline for customer subscription prediction using ensemble models.
+Marketing campaign prediction using ensemble learning.
 
 ---
 
 ## 🎬 Content-Based Recommendation System
 
-Recommendation engine using feature similarity and content-based filtering.
+Recommendation engine using feature similarity.
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Tech Stack
 
-### Languages
+## 💻 Languages
 
-- Python
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-### Data Science
+---
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+## 📊 Data Science
 
-### Machine Learning
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn"/>
+</p>
+
+---
+
+## 🤖 Machine Learning
 
 - Scikit-Learn
 - XGBoost
@@ -123,29 +139,39 @@ Recommendation engine using feature similarity and content-based filtering.
 - Optuna
 - SHAP
 
-### Deep Learning
+---
 
-- PyTorch
+## 🧠 Deep Learning
 
-### ML Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
 
-- FastAPI
-- Docker
+---
+
+## ⚙️ ML Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker"/>
+</p>
+
 - REST APIs
 - Model Serving
 - Logging
 - Testing
-
-### Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+- Production Deployment
 
 ---
 
-# 🌱 Currently Learning
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 📚 Currently Learning
 
 - Advanced Statistics for Machine Learning
 - SQL for Data Engineering
@@ -153,7 +179,6 @@ Recommendation engine using feature similarity and content-based filtering.
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - MLOps
-- ML System Design
 - Kubernetes
 - AWS
 
@@ -161,20 +186,50 @@ Recommendation engine using feature similarity and content-based filtering.
 
 # 🎯 2026 Goals
 
-- Build production-grade AI systems.
-- Master LLM Engineering and MLOps.
-- Contribute to open-source AI projects.
-- Publish enterprise-level AI applications.
-- Land a Machine Learning Engineer / AI Engineer role.
+- 🚀 Become a Production ML Engineer
+- 🤖 Build Enterprise AI Systems
+- 📦 Master MLOps
+- ☁️ Deploy AI Applications to the Cloud
+- 🌍 Contribute to Open Source
+- 💼 Land a Machine Learning Engineer / AI Engineer role
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morsycoo&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsycoo&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=morsycoo&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mahmudmursi/
-- 💻 GitHub: https://github.com/morsycoo
-- 📧 Email: mahmud.mursi@gmail.com
+<p>
+
+💼 LinkedIn:
+https://www.linkedin.com/in/mahmudmursi/
+
+💻 GitHub:
+https://github.com/morsycoo
+
+📧 Email:
+mahmud.mursi@gmail.com
+
+</p>
 
 ---
 
-> **"Building intelligent systems that are not only accurate, but reliable, scalable, and production-ready."**
+<div align="center">
+
+### 💡 Philosophy
+
+> **Build. Measure. Deploy. Monitor. Improve.**
+
+</div>
