@@ -1,113 +1,95 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mahmoud Morsy</h1>
 
-# 👋 Hi, I'm Mahmoud Morsy
+<h3 align="center">
+Machine Learning Engineer • AI Engineer
+</h3>
 
-### 🤖 Machine Learning Engineer | AI Engineer
-
-Building production-ready AI systems from data to deployment.
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-
+<p align="center">
+Building production-ready AI systems.
 </p>
-
-</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a **Machine Learning Engineer** passionate about building reliable, scalable, and production-ready AI systems.
-
-My work goes beyond training models—I enjoy designing complete ML pipelines, deploying models as APIs, optimizing performance, and building maintainable software.
-
-### 🎯 Current Focus
-
-- 🤖 Machine Learning Engineering
+- 🤖 Machine Learning Engineer
 - 🧠 Deep Learning with PyTorch
-- 🚀 MLOps
-- 💬 LLM Engineering
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents
+- ⚙️ ML Engineering
+- 🚀 FastAPI & Docker
+- 💬 Learning LLM Engineering
+- 🌍 Open Source Enthusiast
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,mysql,git,github,vscode"/>
+
 </p>
 
----
+<p align="center">
 
-## 📊 Data Science
-
-<p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn"/>
+
+</p>
+
+### Machine Learning
+
+`Scikit-Learn` • `LightGBM` • `XGBoost` • `CatBoost`
+
+`Optuna` • `SHAP`
+
+---
+
+## ⭐ Featured Projects
+
+🟢 Credit Risk Intelligence System
+
+🟢 IBM Employee Attrition Prediction
+
+🟢 Credit Card Fraud Detection
+
+🟢 Customer Churn Prediction
+
+🟢 Recommendation System
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Statistics
+- SQL
+- LLM Engineering
+- RAG
+- AI Agents
+- MLOps
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=morsycoo&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsycoo&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=morsycoo&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🧠 Deep Learning
+## 📫 Connect
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-</p>
+💼 LinkedIn
 
----
+💻 GitHub
 
-## ⚙️ ML Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker"/>
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morsycoo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsycoo&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=morsycoo&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-💼 LinkedIn:
-https://www.linkedin.com/in/mahmudmursi/
-
-💻 GitHub:
-https://github.com/morsycoo
-
-📧 Email:
-mahmud.mursi@gmail.com
-
-</p>
-
----
+📧 Email
