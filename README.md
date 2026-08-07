@@ -1,85 +1,224 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                      HEADER                                -->
+<!-- ========================================================= -->
 
-# 👋 Hi, I'm Mahmoud Morsy
+<h1 align="center">Hi 👋, I'm Mahmoud Morsy</h1>
 
-### 🤖 Machine Learning Engineer | AI Engineer
+<h3 align="center">
+AI Engineer • Machine Learning Engineer
+</h3>
 
+<p align="center">
 Building production-ready AI systems from data to deployment.
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-
 </p>
 
-</div>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mahmudmursi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/morsycoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/mahmoudmorsy">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **Machine Learning Engineer** passionate about building reliable, scalable, and production-ready AI systems.
-
-My work goes beyond training models. I enjoy designing complete ML pipelines, deploying models as APIs, optimizing performance, and building maintainable software.
-
-- ⚙️ Machine Learning Engineer
-- 🧠 Deep Learning with PyTorch
-- 🤖 AI Agents
-- 🚀 MLOps
-- 💬 LLM Engineering
-- 🚀 FastAPI & Docker
-- 🌍 Open Source Enthusiast
+- 🤖 AI Engineer focused on **Machine Learning & NLP**
+- ⚙️ Building **production-ready AI applications**
+- 📚 Currently learning **LLMs, AI Agents & MLOps**
+- 💡 Passionate about turning data into intelligent products
 
 ---
 
-## 🛠 Tech Stack
+# ⭐ Featured Projects
 
-<p align="center">
+<table>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,mysql,git,github,vscode"/>
+<tr>
 
-</p>
+<td width="50%">
 
-<p align="center">
+## 📰 Fake News Detection
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn"/>
+Production-ready NLP pipeline for fake news classification.
 
-</p>
+**Highlights**
+
+- Linear SVM
+- TF-IDF
+- FastAPI
+- Docker
+- GitHub Actions
+- Pytest
+- CI/CD
+- Explainability
+- Error Analysis
+
+<a href="https://github.com/morsycoo/Fake-News-Detection">
+
+View Repository →
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💳 Home Credit Default Risk
+
+Credit risk prediction using advanced feature engineering.
+
+**Highlights**
+
+- Feature Engineering
+- Model Comparison
+- Explainability
+- Scikit-learn
+- End-to-End Pipeline
+
+<a href="https://github.com/morsycoo/Home-Credit-Default-Risk">
+
+View Repository →
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🚖 NYC Taxi Trip Duration
+
+Regression project for trip duration prediction.
+
+**Highlights**
+
+- Regression
+- Random Forest
+- SHAP
+- Data Visualization
+- Statistics
+
+<a href="#">
+
+View Repository →
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💰 Credit Card Fraud Detection
+
+Fraud detection using imbalanced learning techniques.
+
+**Highlights**
+
+- Classification
+- Imbalanced Data
+- ROC-AUC
+- Precision-Recall
+- Feature Engineering
+
+<a href="#">
+
+View Repository →
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 🛠️ Tech Stack
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morsycoo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsycoo&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=morsycoo&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 📫 Connect With Me
+### Languages
 
 <p>
 
-💼 LinkedIn:
-https://www.linkedin.com/in/mahmudmursi/
+<img src="https://skillicons.dev/icons?i=python"/>
 
-💻 GitHub:
-https://github.com/morsycoo
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-📧 Email:
-mahmud.mursi@gmail.com
+<img src="https://skillicons.dev/icons?i=bash"/>
 
 </p>
+
+### Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+
+</p>
+
+### Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+### DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 AI Agents
+- ⚡ MLOps
+- ☁️ Cloud Deployment
+
+
+- 🚀 Production AI Systems
 
 ---
