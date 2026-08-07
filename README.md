@@ -65,6 +65,9 @@ Building production-ready AI systems from data to deployment.
 
 </p>
 
+<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
+
+</p>
 ---
 
 ### API Development
