@@ -45,20 +45,35 @@ Building production-ready AI systems from data to deployment.
 </p>
 
 ---
-╭────────────────────────────────────────────╮
-        🛠 Tech Stack
-──────────────────────────────────────────────
 
-🐍 Python   🔥 PyTorch   ⚡ FastAPI   🐳 Docker
+# 🛠 Tech Stack
 
-📊 Scikit-Learn   🚀 XGBoost   💡 LightGBM
+<p align="center">
 
-📚 Pandas   🔢 NumPy   📈 SHAP
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux,vscode,mysql,bash,jupyter" />
 
-🧠 NLP   TF-IDF   spaCy   NLTK
+</p>
 
-⚙ Git   GitHub   Linux   VS Code
+<p align="center">
 
-🧪 Pytest   GitHub Actions   Docker Compose
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TF--IDF-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 
-╰────────────────────────────────────────────╯
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
+<img src="https://img.shields.io/badge/Joblib-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pickle-3776AB?style=flat-square"/>
+
+</p>
