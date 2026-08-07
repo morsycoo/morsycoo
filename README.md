@@ -59,13 +59,9 @@ Trip duration prediction using regression models.
 
 **Tech**
 
-`Regression`
+`Regression` • `Feature Engineering`
 
-`Random Forest`
-
-`SHAP`
-
-`Feature Engineering`
+`Random Forest` • `SHAP`
 
 <a href="https://github.com/morsycoo/NYC-Yellow-Taxi-Trip-Duration-Prediction">
 
