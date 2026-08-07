@@ -29,8 +29,6 @@ Building production-ready AI systems from data to deployment.
 
 <table>
 
-<tr>
-
 <td width="50%">
 
 ## 📰 Fake News Detection
