@@ -52,7 +52,6 @@ Production-ready NLP pipeline for fake news classification.
 </td>
 
 <td width="50%">
-
 ## 🚖 NYC Taxi Duration Prediction
 
 Trip duration prediction using regression models.
