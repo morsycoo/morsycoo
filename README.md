@@ -77,15 +77,6 @@ Building production-ready AI systems from data to deployment.
 
 ---
 
-# 🎯 Current Focus
-
-- 🧠 Large Language Models (LLMs)
-- 🤖 AI Agents
-- ⚡ MLOps
-- ☁️ Cloud Deployment
-- 🚀 Production AI Systems
-
----
 <!-- ========================================================= -->
 <!--                  GITHUB ANALYTICS                         -->
 <!-- ========================================================= -->
