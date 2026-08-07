@@ -44,4 +44,19 @@ Building production-ready AI systems from data to deployment.
 
 </p>
 
+---
+
+<p>
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
+<img src="https://img.shields.io/badge/Joblib-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pickle-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown"/>
+
+</p>
 
