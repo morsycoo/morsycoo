@@ -57,19 +57,6 @@ Building production-ready AI systems from data to deployment.
 
 ---
 
-### Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
-
-</p>
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy"/>
-
-</p>
----
-
 ### API Development
 
 <p>
