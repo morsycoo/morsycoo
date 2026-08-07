@@ -18,8 +18,11 @@ Building production-ready AI systems from data to deployment.
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Natural+Language+Processing;Production+AI;FastAPI+%7C+Docker+%7C+MLOps"/>
 
-</p>
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=120&section=footer"/>
+
+</p>
 ---
 
 # 🚀 About Me
