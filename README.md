@@ -217,8 +217,143 @@ View Repository →
 - 🤖 AI Agents
 - ⚡ MLOps
 - ☁️ Cloud Deployment
-
-
 - 🚀 Production AI Systems
 
 ---
+<!-- ========================================================= -->
+<!--                    GITHUB STATS                            -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=morsycoo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=morsycoo&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=morsycoo&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Highlights
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Engineer**
+
+Building intelligent systems from data to deployment.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Machine Learning**
+
+End-to-End ML Pipelines with Scikit-learn & PyTorch.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Production AI**
+
+FastAPI • Docker • CI/CD • Testing
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Data Science**
+
+Feature Engineering • Explainability • Model Evaluation
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📌 Currently Working On
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 AI Agents
+- ⚙️ MLOps
+- ☁️ Cloud Deployment
+- 🚀 Production Machine Learning
+
+---
+
+# 📂 Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| 📰 **Fake News Detection** | Production-ready NLP pipeline with FastAPI, Docker & CI/CD |
+| 💳 **Home Credit Default Risk** | End-to-End ML pipeline for credit risk prediction |
+| 🚖 **NYC Taxi Trip Duration** | Regression, Feature Engineering & SHAP Explainability |
+| 💰 **Credit Card Fraud Detection** | Imbalanced Classification & Fraud Detection |
+| 👨‍💼 **IBM Employee Attrition** | Employee Attrition Prediction using PyTorch |
+| 📈 **Bank Customer Subscription** | Marketing Campaign Prediction |
+| 📉 **Customer Churn Prediction** | Customer Retention Analysis |
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/morsycoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahmudmursi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.kaggle.com/mahmoudmorsy">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💬 *"Building production-ready AI systems, one project at a time."*
+
+</p>
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
