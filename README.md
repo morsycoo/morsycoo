@@ -71,8 +71,6 @@ Production-ready NLP pipeline for fake news classification.
 
 View Repository →
 
-</a>
-
 </td>
 
 <td width="50%">
