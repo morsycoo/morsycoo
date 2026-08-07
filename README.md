@@ -45,6 +45,96 @@ Building production-ready AI systems from data to deployment.
 </p>
 
 ---
+# 🛠️ Tech Stack
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,bash" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🤖 Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 📊 Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge"/>
+</p>
+
+</td>
+
+<td valign="top">
+
+### 🧠 NLP
+
+<p>
+<img src="https://img.shields.io/badge/TF--IDF-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### ⚡ API & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker" />
+</p>
+
+</td>
+
+<td valign="top">
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" />
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 <p>
 
