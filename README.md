@@ -46,7 +46,6 @@ Production-ready NLP pipeline for fake news classification.
 <a href="https://github.com/morsycoo/Fake-News-Detection">
 
 **View Repository →**
-</td>
 
 <td width="50%">
   
