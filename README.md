@@ -26,107 +26,56 @@ Building production-ready AI systems from data to deployment.
 ---
 
 # ⭐ Featured Projects
-
 <table>
-
 <tr>
-
 <td width="50%">
-
 ## 📰 Fake News Detection
-
 Production-ready NLP pipeline for fake news classification.
-
 **Tech**
-
 `Linear SVM` • `TF-IDF` • `FastAPI`
-
 `Docker` • `Pytest` • `CI/CD`
-
 <a href="https://github.com/morsycoo/Fake-News-Detection">
-
 **View Repository →**
-
 </a>
-
 </td>
-
 <td width="50%">
-
 ## 💳 Home Credit Default Risk
-
 Credit risk prediction using advanced feature engineering.
-
 **Tech**
-
 `Scikit-learn` • `Feature Engineering`
-
 `Explainability` • `ML Pipeline`
-
 <a href="https://github.com/morsycoo/Home-Credit-Default-Risk">
-
 **View Repository →**
-
 </a>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
-
 ## 🚖 NYC Taxi Duration Prediction
-
 Trip duration prediction using regression models.
-
 **Tech**
-
 `Regression`
-
 `Random Forest`
-
 `SHAP`
-
 `Feature Engineering`
-
 <a href="https://github.com/morsycoo/NYC-Yellow-Taxi-Trip-Duration-Prediction">
-
 **View Repository →**
-
 </a>
-
 </td>
-
 <td width="50%">
-
 ## 💰 Credit Card Fraud Detection
-
 Fraud detection with imbalanced learning techniques.
-
 **Tech**
-
 `Classification`
-
 `SMOTE`
-
 `ROC-AUC`
-
 `Precision-Recall`
-
 <a href="https://github.com/morsycoo/Credit-Card-Fraud-Detection">
-
 **View Repository →**
-
 </a>
-
 </td>
-
 </tr>
-
 </table>
-
 ---
 
 # 🛠 Tech Stack
