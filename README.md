@@ -25,52 +25,6 @@ Building production-ready AI systems from data to deployment.
 
 ---
 
-# ⭐ Featured Projects
-
-<table>
-
-<td width="50%">
-
-## 📰 Fake News Detection
-
-Production-ready NLP pipeline for fake news classification.
-
-**Tech**
-
-`Linear SVM` • `TF-IDF` • `FastAPI`
-
-`Docker` • `Pytest` • `CI/CD`
-
-<a href="https://github.com/morsycoo/Fake-News-Detection">
-
-**View Repository →**
-
-<td width="50%">
-  
-## 🚖 NYC Taxi Duration Prediction
-
-Trip duration prediction using regression models.
-
-**Tech**
-
-`Regression` • `Feature Engineering`
-
-`Random Forest` • `SHAP`
-
-<a href="https://github.com/morsycoo/NYC-Yellow-Taxi-Trip-Duration-Prediction">
-
-**View Repository →**
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
 # 🛠 Tech Stack
 
 ### Programming Languages
