@@ -9,7 +9,7 @@ Hi 👋, I'm Mahmoud Morsy
 AI Engineer • Machine Learning Engineer
 </h3>
 <p align="center">
-Building production-ready AI systems from data to deployment.
+Building production ready AI systems from data to deployment.
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Natural+Language+Processing;Computer+Vision;Production+AI;FastAPI+%7C+Docker+%7C+MLOps"/>
