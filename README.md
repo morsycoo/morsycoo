@@ -24,15 +24,13 @@
 
 ## 🚀 About Me
 
-I'm an AI engineer focused on understanding how intelligent systems work end to end — from data and model behavior to the application, testing, and runtime around it.
+I'm an AI engineer focused on understanding how intelligent systems work end-to-end, from data and model behavior to application, testing, and runtime. I enjoy going beyond a successful model response to understand the engineering decisions that make an AI application useful, testable, and maintainable.
 
 - 🤖 Building **machine learning and LLM-powered applications**.
 - 🧠 Exploring **tokenization, generation, prompt construction, structured outputs, and model evaluation**.
 - ⚙️ Developing Python backends with **FastAPI**, integrating local models through **Ollama**.
 - 🧪 Prioritizing **testing, reproducibility, failure handling, and reliable application behavior**.
 - 👁️ Applying deep learning to **computer vision and object detection**.
-
-I enjoy going beyond a successful model response to understand the engineering decisions that make an AI application useful, testable, and maintainable.
 
 ---
 
@@ -42,7 +40,7 @@ I enjoy going beyond a successful model response to understand the engineering d
 
 **A local-first Arabic/English AI assistant powered by a locally running language model.**
 
-HADOTA connects a browser-based chat interface to a FastAPI backend and a local Qwen model served through Ollama. The project explores the full message lifecycle — from request validation and session ownership to prompt construction, inference, response handling, and rendering the result in the UI.
+HADOTA connects a browser-based chat interface to a FastAPI backend and a local Qwen model served through Ollama. The project explores the full message lifecycle from request validation and session ownership to prompt construction, inference, response handling, and rendering the result in the UI.
 
 **Engineering highlights**
 - Local inference through **Ollama + Qwen3.8:27B**.
@@ -52,19 +50,6 @@ HADOTA connects a browser-based chat interface to a FastAPI backend and a local 
 - Automated tests, real-Ollama smoke tests, and health/readiness checks.
 
 **Latest recorded local verification:** 366 tests passed · 91% reported test coverage · 3 real-Ollama smoke tests passed. These are results from a recorded run, not a claim of production certification or public deployment.
-
-### 🚧 [Road Damage Detection](https://github.com/morsycoo/Road-Damage-Detection-using-YOLO)
-
-**An end-to-end computer vision system for detecting road damage in images and videos.**
-
-The project covers dataset preparation and annotation conversion, YOLO-based detection, model evaluation and error analysis, reusable inference, and API delivery.
-
-**Engineering highlights**
-- Road-damage object detection using **Ultralytics YOLO** and PyTorch.
-- Reusable inference engine exposed through **FastAPI**.
-- Image and video inference with annotated outputs.
-- Runtime benchmarking and FP16/CUDA evaluation.
-- Docker packaging and GPU-runtime validation.
 
 ---
 
@@ -129,14 +114,6 @@ The project covers dataset preparation and annotation conversion, YOLO-based det
 
 ---
 
-## 📚 Learning Through Building
-
-I use hands-on projects and experiments to connect the theory behind AI models with practical engineering. My work includes dedicated learning notes and notebooks on tokenization, generation and decoding, local runtime integration, prompt construction, structured output, end-to-end assistant design, and regression evaluation.
-
-For implementation details and the latest project status, visit the individual repositories linked above.
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in AI engineering, LLM applications, machine learning systems, open-source collaboration, and sharing what I learn while building.
@@ -151,5 +128,5 @@ I'm interested in AI engineering, LLM applications, machine learning systems, op
 </p>
 
 <p align="center">
-  Thanks for stopping by — and happy building! 🚀
+  Thank you for visiting, and happy building! 🚀
 </p>
