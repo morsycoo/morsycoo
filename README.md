@@ -36,7 +36,7 @@ I'm an AI engineer focused on understanding how intelligent systems work end-to-
 
 ## 🧩 Featured Projects
 
-### 🪄 [HADOTA — حَدُّوتَة](https://github.com/morsycoo/HADOTA)
+### 🪄 [HADOTA - حَدُّوتَة](https://github.com/morsycoo/HADOTA)
 
 **A local-first Arabic/English AI assistant powered by a locally running language model.**
 
