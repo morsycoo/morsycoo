@@ -38,7 +38,7 @@ I'm an AI engineer focused on understanding how intelligent systems work end-to-
 
 ### 🪄 [HADOTA - حَدُّوتَة](https://github.com/morsycoo/HADOTA)
 
-**A local-first Arabic/English AI assistant powered by a locally running language model.**
+**A local Arabic/English AI assistant powered by a locally running language model.**
 
 HADOTA connects a browser-based chat interface to a FastAPI backend and a local Qwen model served through Ollama. The project explores the full message lifecycle from request validation and session ownership to prompt construction, inference, response handling, and rendering the result in the UI.
 
